@@ -1,0 +1,4 @@
+Integrantes - Taller de Monitoreo y Observabilidad (DYAS-Monitoreo)
+Curso: Diseño y Arquitectura de Software - Universidad de La Sabana
+
+1. Simón Martínez - simonmaga@unisabana.edu.co
